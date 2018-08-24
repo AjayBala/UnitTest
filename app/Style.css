@@ -1,0 +1,10 @@
+*{ margin: 0px; padding: 0px; outline: none;}
+
+#mainWrap {
+    width: 100%;
+    float: left;
+    min-height: calc(100vh - 138px);
+    box-sizing: border-box;
+}
+
+a{ cursor: pointer;}

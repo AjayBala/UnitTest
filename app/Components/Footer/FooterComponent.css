@@ -1,0 +1,7 @@
+/********************************/
+#footerWrap{ width:100%; float: left; }
+#footerWrap .footerNav_1 { width:100%; float: left; background-color: #f3f3f3;}
+#footerWrap .footerNav_1 li{ float: left;}
+#footerWrap .footerNav_1 li a{ float: left; color:#1c1c1c;}
+#footerWrap .footerNav_1 li a:hover{ float: left; color:#ff1f2c; background-color: transparent;}
+#footerWrap .footerNav_2 {  background-color: transparent; }

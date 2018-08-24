@@ -1,0 +1,182 @@
+
+
+.box1,.box2,.box3,.box4,.box5,.box6{width:100%;height:225px;border:1px solid #000;border-radius:8px; padding: 50px; float: left;}
+
+.box1{border: 1px solid #979797;}
+
+
+.ProfBenefitsBox{width:100%;height:225px; 	border: 1px solid #979797; border-radius:0px; float:left; text-align:center; margin-top: 30px; padding: 100px; box-sizing: border-box;}
+.icon {margin-top: 2%;margin-bottom: 2%;text-align: center;}
+figure {display: inline-block;border: 1px; }
+figure img {vertical-align: top;}
+figure figcaption {text-align: center;}
+
+.icon1,.icon2,.icon3{width:45px;height:45px;border:1px solid #000;border-radius:0px;margin:100px 200px 200px 200px;}
+.icon1{ background-color: #f1f1f1;}
+
+.specialBuy{width:100%; min-height:120px;box-sizing:border-box; margin: 10px 0px; background-color: rgb(235, 235, 235)}
+/* padding:20px; margin: 10px 0px; background-color: rgb(235, 235, 235) */
+
+.textCenter {
+    text-align: center;
+}
+
+
+
+/* santha css */
+
+
+
+.keypointsBox { border: 2px solid black;height:146px;text-align: center;max-width: 70%;border-radius: 4px}
+.keypointsBox1{border: 2px solid black;height:370px;text-align: center}
+.buyersBox { border: 2px solid black;height:146px;text-align: center;}
+
+
+.Buyers{margin-top: 10%;}
+
+.federal {text-align: center;}
+
+
+.listtype {list-style-type: none;}
+
+.spaceBuy{margin-top: 5%;}
+
+.spacePoints{margin-top: 3%;}
+
+/* santha css ends */
+
+
+
+
+/* Ram css */
+
+
+
+
+.taxpara{
+    text-align:center;
+    font-size: 30px;
+    width:100%;
+}
+
+
+.signuptextwrap{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 40px;
+}
+
+.corppara{
+    font-size: 30px;
+    width:100%;
+}
+.corppara1{
+    font-size: 30px;
+    margin-left: 65px;
+}
+
+
+.corpsquarebox{
+height:225px;border:1px solid #000;border-radius:8px;
+}
+
+.corpsquareboxleft{
+    height:225px;border:1px solid #000;border-radius:8px; 
+}
+
+.corpsquareboxright{
+    height:225px;border:1px solid #000;border-radius:8px;width:45%;
+}
+
+.rightwrap{
+    font-size: 30px;
+    width:100%;
+}
+
+.justrightbox{ border: 1px solid black;height:170px;text-align: center;margin:20px 0px; border-radius: 8px}
+
+.justrightbutton{text-align: center;border-radius: 8px;font-size: 22px;}
+
+.justrightboxtext{margin:20px 0px;}
+
+.navigatebutton {
+    color: black;
+    background-color: #f2f2f2;
+    width: 100%;
+   
+    border: 0px;
+    padding: 17px 2px;
+    opacity: 0.2px;
+    font-size: 30px;
+    max-width: 540px;
+    display: inline-block;
+}
+
+
+.corporatetext, .justrighttext,.simplifyTax{margin-top:10%}
+
+.iconrow {
+    padding: 70px 0px;
+}
+
+.iconrow [class*="col-"] {
+    margin-bottom: 15px;
+}
+
+.iconrow [class*="icon"] {
+    margin: 0 auto 30px auto;
+}
+.footerBoxContainer {
+    margin-top: 80px;
+}
+
+.justifyContent {
+    margin: 25px 0px;
+}
+
+.ProfBenefitsPoints{ width:100%; float: left; padding-left: 60px; box-sizing: border-box; margin-top: 30px;}
+.ProfBenefitsPoints h3{ font-size: 30px;}
+.ProfBenefitsPoints ul{     margin-left: 18px; }
+.ProfBenefitsPoints ul li{
+    font-size: 15px;
+    
+}
+
+.specialBuy{ width:100%; float: left;     padding: 10px 40px 20px 40px; ; }
+.titleBox_1 {
+    width: 100%;
+    float: left;
+    font-size: 26px;
+    line-height: 31px;
+    font-weight: bold;
+}
+.titleBox_1 span{ width: 100%; float: left; font-size: 18px; line-height: 22px; font-weight: normal;}
+.specialBuy a{ float: right;}
+/* .btnSignIn{ margin-top: 40px;} */
+
+
+.textheader{
+    text-decoration-style: none;
+    color: #000;
+    display: inline;
+}
+.arrowdown{
+    display: inline-block;
+}
+
+.mainContentWrap{ width:100%; float: left;}
+.linkStyle_1{ font-weight: 600; color:#222; font-size: 16px;}
+.linkStyle_1 i{ color:#0485cc; margin-left: 10px; font-size: 22px; font-weight: 600;}
+.textheader:hover{ text-decoration: none; color:#0485cc;}
+.ProfBenefitsBase{ margin-top: 70px;}
+.boxOutsdeWrap{ width:100%; float: left; margin: 20px 0px;}
+.boxOutsdeWrap figcaption{  width:100%; float: left; text-align: center; font-size: 20px; line-height: 30px; padding:10px 0px; color:#222;}
+.listStyle_1{ list-style: none;}
+
+.videoBoxWrap{ max-width: 600px; float: right;}
+.videoBoxList{ width:100%; float: left;}
+.videoBoxList li{ width:100%; float: left;}
+.ProfBenefitsPoints .videoBoxList li{ margin: 10px 0px; font-size:18px; }
+.paragraph_Txt{ width:100%; float: left; margin: 20px 0px;}
+.simplyTaxWrap .boxOutsdeWrap{     padding: 0px 70px; box-sizing: border-box;}
+.simplyTaxWrap .boxOutsdeWrap .box1{ float: left; padding: 100px; text-align: center;}

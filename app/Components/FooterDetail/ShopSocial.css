@@ -1,0 +1,132 @@
+.labelWhiteTxt {
+    color: white;
+  }
+  
+  .footerTopBoxWrap {
+    width: 100%;
+    float: left;
+    background-color: #545658;
+    border-bottom: 2px solid #fff;
+    padding: 10px 0px;
+  }
+  .socialLinksWrap {
+    width: 100%;
+    float: left;
+  }
+  .socialLinksWrap li {
+    float: left;
+    color: #fff;
+    margin: 0px 20px;
+  }
+  .socialLinksWrap li a {
+    float: left;
+    color: #fff;
+    font-size: 18px;
+  }
+  .socialLinksWrap li a:hover{
+    background-color: transparent;
+    color: #c7212b;
+  }
+  .socialLinksWrap li:first-child {
+    margin-left: 0;
+  }
+  .socialLinksWrap li:first-child a {
+    padding-left: 0;
+  }
+  
+  .title_h6 {
+    width: 100%;
+    float: left;
+    font-size: 11px;
+    color: #fff;
+    font-weight: normal;
+  }
+  
+  .footerMenuWrap {
+    width: 100%;
+    float: left;
+    padding: 80px 0px;
+  }
+  .footerMenuList {
+    width: 100%;
+    float: left;
+    margin: 20px 0px;
+  }
+  .footerMenuList li {
+    width: 100%;
+    float: left;
+  }
+  .footerMenuList li a {
+    float: left;
+    color: #fff;
+    font-size: 14px;
+    line-height: 18px;
+    padding: 2px;
+  }
+  .footerMenuList li a:hover {
+    background-color: transparent;
+    color: #ff1f2c;
+  }
+  
+  .footerBottomBoxWrap {
+    width: 100%;
+    float: left;
+    background-color: #2f3337;
+    padding: 15px 0px;
+    border-bottom: 2px solid #fff;
+  }
+  .footerContBox {
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+  }
+  .footerContBox {
+    width: 100%;
+    float: left;
+  }
+  .footerContBox {
+    color: #fff;
+  }
+  .footerContBox p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .socialButton {
+    border-radius: 3px;
+    margin: 5px 0;
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    min-width: 150px;
+    padding: 10px 12px;
+  }
+  
+  .mt-0 {
+    margin-top: 0 !important;
+  }
+  
+  .p-0 {
+    padding: 0 !important;
+  }
+  
+  .pb-3 {
+    padding-bottom: 3rem !important;
+  }
+  
+  .mb-0 {
+    margin-bottom: 0 !important;
+  }
+  
+  .mb-2 {
+    margin-bottom: 2rem !important;
+  }
+  
+  .footer-links {
+    font-size: 14px;
+  }
+  
+  .footer-links a {
+    text-decoration: none;
+    color: #fff;
+  }
+  

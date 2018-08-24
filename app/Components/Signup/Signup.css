@@ -1,0 +1,87 @@
+/*******************************/
+#mainWrap{ width:100%; float: left;     min-height: calc(100vh - 138px);}
+.bgStyle{
+    background-image: url(../../../assets/Images/Login.png);
+    background-size: cover;
+    width: 100%;
+    min-height: calc(100vh - 258px);
+    background-repeat: no-repeat;
+    padding-bottom: 70px;
+}
+.formWrap { width:100%; float:left; padding:30px; max-width: 360px; background-color:#fff; box-sizing:border-box; margin-top:20px;}
+.formWrap form { width:100%; float:left; }
+.formWrap .control-label{ color: #4c4c4c; font-weight: 500;}
+.loginButton { color:#333; background-color: #f1f1f1; width: 100%; float: left; margin-top: 15px; border:0px; padding: 7px 12px;}
+.loginButton:hover{ background-color: #999; color: #fff;}
+.signInTxt{ width: 100%; float: left; padding: 0px; padding-top: 20px; color:#777; margin-bottom: 0px; text-align: center;}
+.signInTxt a:hover{ color:#ff1f2c; text-decoration: none;}
+
+.signupTitle_1{ width:100%; float:left; padding: 5px; text-align: center; font-size: 18px; line-height: 22px; margin-top: 0px;}
+.signupTitle_1 img{ display: inline-block; height: 26px; border: 0px; margin-bottom: 8px;}
+
+.createAccBtn{  color:#fff; background-color: #034078; width: 100%; float: left; margin-top: 15px; border:0px; padding: 7px 12px;}
+
+
+.bannerTitle_1{ width:100%; float:left; padding:10px; text-align: center; font-size:44px; line-height: 22px; margin-top: 0px; color: #FFFFFF;	font-size: 46px;	font-weight: 100;	line-height: 50px; margin: 50px 0px;} 
+.fullImgWrap{ width:100%; float:left; margin-top: 60px;}
+
+
+
+.bannerTitle_1{ width:100%; float:left; padding:10px; text-align: center; font-size:44px; line-height: 22px; margin-top: 0px; color: #FFFFFF;	font-size: 46px;	font-weight: 100;	line-height: 50px; margin: 50px 0px;} 
+.tablewrap{ width:100%; float:right; margin-top:20px;box-sizing:border-box;max-width: 560px}
+.tablewrap table{width: 100%;float: left}
+
+.tablewrap th, td {
+    padding: 15px;
+    background-color: white;
+    border: 0.1px solid #a6a6d3;
+    border-collapse: collapse; 
+    font-size: 13px;
+    color:gray;
+    font-family: sans-serif;
+    width: 100%
+    
+}
+.arrow-down{
+
+    width: 0; 
+    height: 0; 
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 50px solid #034078;
+
+  
+}
+
+.tick:before {
+    content: "\2713";
+    color: red;
+    font-weight: bolder;
+   
+  }
+
+  .tick1:before {
+    content: "\2713";
+    color: blue;
+    font-weight: bolder;
+   
+  }
+
+  .cross:before {
+    content: "\2717";
+    color: gray;
+    font-weight:bolder;
+  }
+
+
+  .arrowColHead{ position: relative;}
+  .arrowColHead::before{ position: absolute; 
+    content: ""; 
+    left:0px; 
+    top: 67px;
+    width: 0;
+    height: 0;
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;
+    border-top: 30px solid #034078;
+  }

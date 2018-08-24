@@ -1,0 +1,60 @@
+.SignupWrap{ width:96%; max-width: 500px; margin: 30px auto; }
+.SignupWrap > form{  width:100%; float: left; background-color: rgba(255, 255, 255, 0.6); padding: 20px; box-sizing: border-box; border-radius:6px;}
+.title_1{ width:100%; float: left;font-weight: normal; text-transform: uppercase; font-size: 24px; line-height: 30px; color:#222; padding: 0px 10px; box-sizing: border-box;}
+.formWrapList{ width:100%; float: left; margin: 20px 0px }
+.formWrapList > li{ width:100%; float: left; margin: 5px 0px; list-style: none; padding:0px 10px; box-sizing: border-box; }
+.formWrapList .inputTxt{background:rgba(0,0,0,0.5); border:0px; color:#fff;font-size:14px;letter-spacing:0.5px;line-height:30px;padding:5px 10px;text-align:left;width:100%;box-sizing:border-box;text-align:left;height:40px;}
+.inputTxt::placeholder { color: rgba(255,255,255,0.1); }
+.formWrapList textarea.inputTxt{height:100px;resize:none;}
+.btn-submit{position: relative;
+    background: #0095e2;
+    float: left;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 14px;
+    border: 0px;}
+.btn-reset{position: relative;
+    float: left;
+    padding: 0px 20px;
+    color: rgba(0,0,0,0.6);
+    cursor: pointer;
+    text-transform: uppercase;
+    font-size: 14px;
+    border: 2px solid rgba(0,0,0,0.6);
+    box-sizing: border-box;
+    background-color: transparent;
+    height: 36px;
+    line-height: 32px;
+    margin-left: 10px;
+}    
+.btn-submit:disabled{ background-color: #666; cursor: not-allowed;}
+.labelTxt{ width:100%; float: left; font-size: 14px; line-height: 20px; font-weight: 500; }    
+.errorTxt{ font-size: 12px; line-height: 20px; color:#f00; }
+
+.loginBoxWrap{ width:90%; max-width: 362px; margin: 0px auto ; padding: 40px 0px;}
+.logoWrap{ width:100%; float: left; text-align: center; border-bottom: 1px solid #eee; padding: 10px; box-sizing: border-box;}
+.logoImg{ display: inline-block; height:60px;}
+.loginBox{ width:100%; float: left; padding: 30px; box-sizing: border-box; /*box-shadow: 0px 0px 6px rgba(0,0,0,0.2);*/ border-radius: 3px; margin-bottom: 50px;}
+.loginBox h2{ width:100%; float: left; padding: 4px 0px; box-sizing: border-box; font-size: 22px;}
+.title_h1{ width:100%; float: left; text-align: center; padding: 20px 0px; font-size: 24px;}
+
+.containInnerWrap{ width:100%; float: left; margin:80px 0px; }
+.loginBox .form-control{ box-shadow: inherit; border:0px; background-color: #f1f1f1; height: 36px; }
+
+
+.form-group{ position: relative; margin-bottom: 25px; }
+.errorTxt { color: #D8000C; background-color: #FFBABA; position: absolute; right: 0px; top: 65px; padding: 5px 10px; border-radius: 3px; z-index: 1; min-width: 120px;}
+.errorTxt:before{ position: absolute; content: ''; border-bottom: 6px solid #FFBABA; border-left:6px solid transparent; border-right:6px solid transparent; right: 10px; top: -6px; }
+
+.btnSignIn{ width:100%; float: left; margin-top: 15px; border:1px solid #eee; border-radius:3px; -webkit-border-radius:3px; background: #9b9b9b; padding:9px 0px; box-sizing: border-box;}
+.btnSignIn:hover{ background-color: #9b9b9b;  border:1px solid #666; color: #fff;}
+.forgotTxt{ width: 100%; float: left; text-align: center; padding: 20px 0px;}
+
+/* Recaptcha overrides */
+
+.rca-styles {
+    background-color: red;
+}
+

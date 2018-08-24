@@ -1,0 +1,29 @@
+.SqaureText {
+    border-radius: 0%
+}
+
+loginBoxWrap{ width:90%; max-width: 400px; margin: 100px auto ;}
+.logoWrap{ width:100%; float: left; text-align: center; padding: 10px; box-sizing: border-box;}
+
+/*.container{
+    width:47%;
+    height: 80vh;
+    margin-left:33%;
+    margin-top:5%; 
+}*/
+.Formpagewrap{   
+    margin-left:2%;
+    padding: 45px;
+    width:68%;
+    height: 61vh;
+}
+.Formbuttonwrap{ 
+    margin-left: 35%;
+    margin-top:10%;
+}
+.phonetextwrap{
+
+    margin-top:1%;
+}
+.zip  input[type=number]::-webkit-inner-spin-button, .zip input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+.number input[type=number]::-webkit-inner-spin-button, .zip input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
